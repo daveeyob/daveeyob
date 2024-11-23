@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daveeyob
-- 👀 I’m interested in Computer Science, coding , App development, Flutter and IT in General 
-- 🌱 I’m currently learning Computer Science CS50x
+- 👀 I’m interested in Computer Science, coding , WebApps, and IT in General 
+- 🌱 I’m currently working as a SysAdmin 
 - 💞️ I’m looking to collaborate on Computer Science, coding and IT
 - 📫 How to reach me
 -               instagram @schetchydome
